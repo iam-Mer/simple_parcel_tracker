@@ -10,6 +10,7 @@ A simple script that tracks your Lazada parcel shipped by J&amp;T Express PH.
 
 ##  How to use it?
 
+*   Install the required library with `pip install -r requirements.txt`
 *   Open the `main.py` in the `app` folder.
 *   Change the `order_number` value with your order number.
 *   Run the script with `python3 -m main.py`
